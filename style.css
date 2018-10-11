@@ -1,0 +1,23 @@
+
+.header,.outer-container{
+    width: 300px;
+    background-color: gainsboro;
+    border: 1px solid dimgray;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.header{
+    text-align: center;
+}
+
+.outer-container{
+
+    text-align: left;
+}
+.btn{
+    background-color: cadetblue;
+    border: none;
+    margin-left: 70%;
+}
+
